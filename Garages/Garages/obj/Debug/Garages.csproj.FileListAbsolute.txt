@@ -1,0 +1,10 @@
+C:\Users\Thomas Holtkamp\source\repos\Periode4\Garages\Garages\bin\Debug\Garages.exe.config
+C:\Users\Thomas Holtkamp\source\repos\Periode4\Garages\Garages\bin\Debug\Garages.exe
+C:\Users\Thomas Holtkamp\source\repos\Periode4\Garages\Garages\bin\Debug\Garages.pdb
+C:\Users\Thomas Holtkamp\source\repos\Periode4\Garages\Garages\obj\Debug\Garages.csprojResolveAssemblyReference.cache
+C:\Users\Thomas Holtkamp\source\repos\Periode4\Garages\Garages\obj\Debug\Garages.Form1.resources
+C:\Users\Thomas Holtkamp\source\repos\Periode4\Garages\Garages\obj\Debug\Garages.Properties.Resources.resources
+C:\Users\Thomas Holtkamp\source\repos\Periode4\Garages\Garages\obj\Debug\Garages.csproj.GenerateResource.Cache
+C:\Users\Thomas Holtkamp\source\repos\Periode4\Garages\Garages\obj\Debug\Garages.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Holtkamp\source\repos\Periode4\Garages\Garages\obj\Debug\Garages.exe
+C:\Users\Thomas Holtkamp\source\repos\Periode4\Garages\Garages\obj\Debug\Garages.pdb
